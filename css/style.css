@@ -80,3 +80,15 @@ ul {
     line-height: 500px;
     text-align: center;
 }
+
+.box {
+    background: yellow;
+    min-height: 500px;
+}
+
+.box__title {
+    text-align: center;
+    color: red;
+    font-size: 100px;
+    line-height: 500px;
+}
